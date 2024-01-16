@@ -1,0 +1,12 @@
+# Specify credentials used to authenticate with your account.
+# Either username or e-mail are accepted.
+USERNAME = "username"
+PASSWORD = "password"
+
+# Specify the first year and mont for which to export events for.
+EXPORT_START_YEAR = 2023
+EXPORT_START_MONTH = 12
+
+# Specify the last year and month for which to export events for.
+EXPORT_END_YEAR = 2024
+EXPORT_END_MONTH = 1

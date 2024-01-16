@@ -1,0 +1,6 @@
+settings.py
+*.ical
+__pycache__
+.pytest_cache
+*.log
+.vscode/
