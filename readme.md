@@ -54,7 +54,7 @@ This command will automatically install all the necessary dependencies for the s
 After completing the setup and configuration, run the script by executing:
 
 ```bash
-python jorte_calendar_exporter.py
+python export-jorte-to-ical.py
 ```
 
 Monitor the output and logs to ensure that the script is running as expected.
